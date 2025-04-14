@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/bin/Debug/net8.0/IfStatementProject
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/bin/Debug/net8.0/IfStatementProject.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/bin/Debug/net8.0/IfStatementProject.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/bin/Debug/net8.0/IfStatementProject.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/bin/Debug/net8.0/IfStatementProject.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/refint/IfStatementProject.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/IfStatementProject.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/IfStatementProject/obj/Debug/net8.0/ref/IfStatementProject.dll
