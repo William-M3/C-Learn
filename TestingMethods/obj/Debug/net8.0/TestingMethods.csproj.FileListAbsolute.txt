@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/bin/Debug/net8.0/TestingMethods
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/bin/Debug/net8.0/TestingMethods.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/bin/Debug/net8.0/TestingMethods.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/bin/Debug/net8.0/TestingMethods.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/bin/Debug/net8.0/TestingMethods.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/refint/TestingMethods.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/TestingMethods.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/TestingMethods/obj/Debug/net8.0/ref/TestingMethods.dll
