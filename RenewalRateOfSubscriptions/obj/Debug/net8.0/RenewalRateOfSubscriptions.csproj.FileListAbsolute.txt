@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/bin/Debug/net8.0/RenewalRateOfSubscriptions
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/bin/Debug/net8.0/RenewalRateOfSubscriptions.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/bin/Debug/net8.0/RenewalRateOfSubscriptions.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/bin/Debug/net8.0/RenewalRateOfSubscriptions.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/bin/Debug/net8.0/RenewalRateOfSubscriptions.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/refint/RenewalRateOfSubscriptions.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/RenewalRateOfSubscriptions.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/RenewalRateOfSubscriptions/obj/Debug/net8.0/ref/RenewalRateOfSubscriptions.dll
