@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/bin/Debug/net8.0/ArrayBasics
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/bin/Debug/net8.0/ArrayBasics.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/bin/Debug/net8.0/ArrayBasics.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/bin/Debug/net8.0/ArrayBasics.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/bin/Debug/net8.0/ArrayBasics.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/refint/ArrayBasics.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ArrayBasics.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayBasics/obj/Debug/net8.0/ref/ArrayBasics.dll
