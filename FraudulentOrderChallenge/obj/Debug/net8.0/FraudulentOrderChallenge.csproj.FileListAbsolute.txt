@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/bin/Debug/net8.0/FraudulentOrderChallenge
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/bin/Debug/net8.0/FraudulentOrderChallenge.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/bin/Debug/net8.0/FraudulentOrderChallenge.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/bin/Debug/net8.0/FraudulentOrderChallenge.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/bin/Debug/net8.0/FraudulentOrderChallenge.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/refint/FraudulentOrderChallenge.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/FraudulentOrderChallenge.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FraudulentOrderChallenge/obj/Debug/net8.0/ref/FraudulentOrderChallenge.dll
