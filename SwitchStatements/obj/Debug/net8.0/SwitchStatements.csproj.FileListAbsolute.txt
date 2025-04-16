@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/bin/Debug/net8.0/SwitchStatements
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/bin/Debug/net8.0/SwitchStatements.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/bin/Debug/net8.0/SwitchStatements.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/bin/Debug/net8.0/SwitchStatements.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/bin/Debug/net8.0/SwitchStatements.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/refint/SwitchStatements.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/SwitchStatements.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/SwitchStatements/obj/Debug/net8.0/ref/SwitchStatements.dll
