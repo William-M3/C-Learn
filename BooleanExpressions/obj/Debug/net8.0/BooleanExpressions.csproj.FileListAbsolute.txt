@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/refint/BooleanExpressions.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/BooleanExpressions/obj/Debug/net8.0/ref/BooleanExpressions.dll
