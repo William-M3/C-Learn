@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/bin/Debug/net8.0/CodeBlock
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/bin/Debug/net8.0/CodeBlock.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/bin/Debug/net8.0/CodeBlock.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/bin/Debug/net8.0/CodeBlock.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/bin/Debug/net8.0/CodeBlock.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/refint/CodeBlock.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/CodeBlock.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CodeBlock/obj/Debug/net8.0/ref/CodeBlock.dll
