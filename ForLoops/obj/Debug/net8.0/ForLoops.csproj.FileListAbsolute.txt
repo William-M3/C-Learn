@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/bin/Debug/net8.0/ForLoops
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/bin/Debug/net8.0/ForLoops.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/bin/Debug/net8.0/ForLoops.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/bin/Debug/net8.0/ForLoops.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/bin/Debug/net8.0/ForLoops.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/refint/ForLoops.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ForLoops.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ForLoops/obj/Debug/net8.0/ref/ForLoops.dll
