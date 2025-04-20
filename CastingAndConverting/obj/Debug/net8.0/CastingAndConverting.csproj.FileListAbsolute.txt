@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/bin/Debug/net8.0/CastingAndConverting
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/bin/Debug/net8.0/CastingAndConverting.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/bin/Debug/net8.0/CastingAndConverting.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/bin/Debug/net8.0/CastingAndConverting.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/bin/Debug/net8.0/CastingAndConverting.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/refint/CastingAndConverting.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/CastingAndConverting.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CastingAndConverting/obj/Debug/net8.0/ref/CastingAndConverting.dll
