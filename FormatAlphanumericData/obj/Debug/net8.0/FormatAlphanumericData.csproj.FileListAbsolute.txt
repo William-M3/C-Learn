@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/refint/FormatAlphanumericData.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FormatAlphanumericData/obj/Debug/net8.0/ref/FormatAlphanumericData.dll
