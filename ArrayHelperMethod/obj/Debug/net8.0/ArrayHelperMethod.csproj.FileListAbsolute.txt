@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/bin/Debug/net8.0/ArrayHelperMethod
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/bin/Debug/net8.0/ArrayHelperMethod.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/bin/Debug/net8.0/ArrayHelperMethod.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/bin/Debug/net8.0/ArrayHelperMethod.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/bin/Debug/net8.0/ArrayHelperMethod.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/refint/ArrayHelperMethod.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ArrayHelperMethod.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ArrayHelperMethod/obj/Debug/net8.0/ref/ArrayHelperMethod.dll
