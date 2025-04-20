@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/bin/Debug/net8.0/CorrectDataType
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/bin/Debug/net8.0/CorrectDataType.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/bin/Debug/net8.0/CorrectDataType.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/bin/Debug/net8.0/CorrectDataType.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/bin/Debug/net8.0/CorrectDataType.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/refint/CorrectDataType.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/CorrectDataType.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/CorrectDataType/obj/Debug/net8.0/ref/CorrectDataType.dll
