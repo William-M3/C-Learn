@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/bin/Debug/net8.0/FMethod
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/bin/Debug/net8.0/FMethod.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/bin/Debug/net8.0/FMethod.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/bin/Debug/net8.0/FMethod.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/bin/Debug/net8.0/FMethod.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/refint/FMethod.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/FMethod.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/FMethod/obj/Debug/net8.0/ref/FMethod.dll
