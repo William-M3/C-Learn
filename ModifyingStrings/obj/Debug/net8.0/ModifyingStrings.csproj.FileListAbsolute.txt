@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/bin/Debug/net8.0/ModifyingStrings
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/bin/Debug/net8.0/ModifyingStrings.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/bin/Debug/net8.0/ModifyingStrings.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/bin/Debug/net8.0/ModifyingStrings.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/bin/Debug/net8.0/ModifyingStrings.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/refint/ModifyingStrings.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ModifyingStrings.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ModifyingStrings/obj/Debug/net8.0/ref/ModifyingStrings.dll
