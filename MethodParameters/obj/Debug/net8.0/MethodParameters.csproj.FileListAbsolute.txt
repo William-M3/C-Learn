@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/bin/Debug/net8.0/MethodParameters
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/bin/Debug/net8.0/MethodParameters.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/bin/Debug/net8.0/MethodParameters.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/bin/Debug/net8.0/MethodParameters.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/bin/Debug/net8.0/MethodParameters.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/refint/MethodParameters.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/MethodParameters.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/MethodParameters/obj/Debug/net8.0/ref/MethodParameters.dll
