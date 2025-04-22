@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/bin/Debug/net8.0/ReturnValues
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/bin/Debug/net8.0/ReturnValues.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/bin/Debug/net8.0/ReturnValues.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/bin/Debug/net8.0/ReturnValues.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/bin/Debug/net8.0/ReturnValues.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/refint/ReturnValues.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ReturnValues.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/ReturnValues/obj/Debug/net8.0/ref/ReturnValues.dll
