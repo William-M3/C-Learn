@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/bin/Debug/net8.0/GuidedPettingZoovisit
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/bin/Debug/net8.0/GuidedPettingZoovisit.deps.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/bin/Debug/net8.0/GuidedPettingZoovisit.runtimeconfig.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/bin/Debug/net8.0/GuidedPettingZoovisit.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/bin/Debug/net8.0/GuidedPettingZoovisit.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.AssemblyInfo.cs
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.sourcelink.json
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/refint/GuidedPettingZoovisit.dll
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.pdb
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/GuidedPettingZoovisit.genruntimeconfig.cache
+/Users/williammurphy/Code/CSharpLearn/C-Learn/GuidedPettingZoovisit/obj/Debug/net8.0/ref/GuidedPettingZoovisit.dll
